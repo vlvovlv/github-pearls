@@ -1,0 +1,9 @@
+{
+  "name": "github-pearls",
+  "version": "1.0.0",
+  "description": "🐚 Github pearls collection",
+  "main": "index.js",
+  "repository": "git@github.com:vlvovlv/github-pearls.git",
+  "author": "vlvovlv <vvlvovlvv@gmail.com>",
+  "license": "MIT"
+}
